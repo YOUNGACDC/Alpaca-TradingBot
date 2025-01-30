@@ -1,6 +1,6 @@
 # Description
 ## *Alpaca-TradingBot*
-## Python Script :
+
 
 
 ### This Python script implements a moving average crossover strategy for trading stocks using the Alpaca API. The strategy compares two simple moving averages (SMA) and executes buy/sell signals based on their crossover behavior. It fetches historical data, performs trading operations, and visualizes the strategy’s performance. This project was a personal experiment to explore how the Alpaca API functions. The strategy implemented is quite simple, using a Moving Average Crossover, and is not sophisticated enough for serious investing. It should not be considered a reliable approach for actual trading, and I would not recommend it for serious investors.
